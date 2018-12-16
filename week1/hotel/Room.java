@@ -10,7 +10,7 @@ public class Room {
     private Guest guest;
 
     // ------------------ Constructor ------------------------
-    /**
+    /** 
      * Creates a <code>Room</code> with the given number, without a guest.
      * @param no number of the new <code>Room</code>
      */
